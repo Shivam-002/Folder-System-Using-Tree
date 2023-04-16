@@ -19,9 +19,9 @@ User can name the root folder of the system and use the instance to create, dele
     ```sh
     git clone https://github.com/Shivam-002/FolderSystem-Using-Tree.git
     ```
-  - Navigate to the FolderSystem-Using-Tree Folder.
+  - Navigate to the Folder-System-Using-Tree Folder.
     ```sh
-    cd FolderSystem-Using-Tree
+    cd Folder-System-Using-Tree
     ```
   - Run the following command : 
     ```sh
